@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>404</title>
+      <link href="2020/10/18/404/"/>
+      <url>2020/10/18/404/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python之禅</title>
+      <link href="2020/10/18/python/"/>
+      <url>2020/10/18/python/</url>
+      
+        <content type="html"><![CDATA[<p>美 优于 丑</p><p>明确 优于 隐晦 </p><p>简单 优于 复杂</p><p>复杂 也好过 繁复 </p><p>扁平 优于 嵌套</p><p>稀疏 优于 拥挤</p><p>可读性很重要</p><p>固然代码实用与否 比洁癖更重要，</p><p>我们以为的特例也往往没有特殊到必须打破上述规则的程度</p><p>除非刻意地静默，</p><p>否则不要无故忽视异常</p><p>如果遇到模棱两可的逻辑，请不要自作聪明地瞎猜。</p><p>应该提供一种，且最好只提供一种，一目了然的解决方案</p><p>当然这是没法一蹴而就的，除非你是荷兰人</p><p>固然，立刻着手 好过 永远不做。</p><p>然而，永远不做 也好过 不审慎思考一撸袖子就莽着干</p><p>如果你的实现很难解释，它就一定不是个好主意</p><p>即使你的实现简单到爆，它也有可能是个好办法</p><p>命名空间大法好，不搞不是地球人！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>my nwe post</title>
+      <link href="2020/10/02/my-nwe-post/"/>
+      <url>2020/10/02/my-nwe-post/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2020/10/02/hello-world/"/>
+      <url>2020/10/02/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
