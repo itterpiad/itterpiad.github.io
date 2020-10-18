@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>itterboy</title>
+  
+  
+  <link href="https://itterpiad.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://itterpiad.github.io/"/>
+  <updated>2020-10-18T12:44:38.243Z</updated>
+  <id>https://itterpiad.github.io/</id>
+  
+  <author>
+    <name>litterboy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>404</title>
+    <link href="https://itterpiad.github.io/2020/10/18/404/"/>
+    <id>https://itterpiad.github.io/2020/10/18/404/</id>
+    <published>2020-10-18T12:42:01.000Z</published>
+    <updated>2020-10-18T12:44:38.243Z</updated>
+    
+    
+    <summary type="html">Oops~，我崩溃了！找不到你想要的页面：</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python之禅</title>
+    <link href="https://itterpiad.github.io/2020/10/18/python/"/>
+    <id>https://itterpiad.github.io/2020/10/18/python/</id>
+    <published>2020-10-18T12:27:36.000Z</published>
+    <updated>2020-10-18T12:37:34.682Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;美 优于 丑&lt;/p&gt;
+&lt;p&gt;明确 优于 隐晦 &lt;/p&gt;
+&lt;p&gt;简单 优于 复杂&lt;/p&gt;
+&lt;p&gt;复杂 也好过 繁复 &lt;/p&gt;
+&lt;p&gt;扁平 优于 嵌套&lt;/p&gt;
+&lt;p&gt;稀疏 优于 拥挤&lt;/p&gt;
+&lt;p&gt;可读性很重要&lt;/p&gt;
+&lt;p&gt;固然代码实用与否</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>my nwe post</title>
+    <link href="https://itterpiad.github.io/2020/10/02/my-nwe-post/"/>
+    <id>https://itterpiad.github.io/2020/10/02/my-nwe-post/</id>
+    <published>2020-10-02T11:27:21.000Z</published>
+    <updated>2020-10-02T11:27:21.485Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://itterpiad.github.io/2020/10/02/hello-world/"/>
+    <id>https://itterpiad.github.io/2020/10/02/hello-world/</id>
+    <published>2020-10-02T11:25:29.665Z</published>
+    <updated>2020-10-02T11:25:29.665Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
