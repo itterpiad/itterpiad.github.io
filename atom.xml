@@ -6,7 +6,7 @@
   <link href="https://itterpiad.github.io/atom.xml" rel="self"/>
   
   <link href="https://itterpiad.github.io/"/>
-  <updated>2020-10-18T12:44:38.243Z</updated>
+  <updated>2020-11-28T09:49:07.538Z</updated>
   <id>https://itterpiad.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>matlab命令</title>
+    <link href="https://itterpiad.github.io/2020/11/28/a/"/>
+    <id>https://itterpiad.github.io/2020/11/28/a/</id>
+    <published>2020-11-28T09:43:29.000Z</published>
+    <updated>2020-11-28T09:49:07.538Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;已知矩阵A，试编写MATLAB语句完成以下内容：&lt;br&gt;将矩阵A沿水平轴上下翻转(flipud())，&lt;br&gt;沿竖直轴左右翻转(fliplr())；&lt;br&gt;提取矩阵A的右上三角元素(triu())、&lt;br&gt;左下三角(tril())；&lt;br&gt;提取矩阵A的对角线元素；diag(</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>404</title>
