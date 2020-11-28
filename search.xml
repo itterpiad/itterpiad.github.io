@@ -5,8 +5,8 @@
     
     <entry>
       <title>matlab命令</title>
-      <link href="2020/11/28/matlab-ming-ling/"/>
-      <url>2020/11/28/matlab-ming-ling/</url>
+      <link href="2020/11/28/a/"/>
+      <url>2020/11/28/a/</url>
       
         <content type="html"><![CDATA[<p>已知矩阵A，试编写MATLAB语句完成以下内容：<br>将矩阵A沿水平轴上下翻转(flipud())，<br>沿竖直轴左右翻转(fliplr())；<br>提取矩阵A的右上三角元素(triu())、<br>左下三角(tril())；<br>提取矩阵A的对角线元素；diag(A)<br>求矩阵A的行列式、秩rank()；<br>format: 对命令窗口显示内容的格式进行设定<br>echo:    控制是否显示正在执行的matlab语句<br>pwd:     显示当前目录的名称<br>clc:        清楚命令窗口的显示内容<br>clf:        清楚图形窗口中所显示的内容</p>]]></content>
       
